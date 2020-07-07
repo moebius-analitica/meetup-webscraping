@@ -11,6 +11,8 @@
 
 El siguiente repositorio contiene el código fuente oficial de la charla ***Web scraping en tiempos de cuarentena***, dictada el día 01-07-2020 para la comunidad. La información oficial del evento se encuentra en el siguiente [link](https://www.meetup.com/Analytics-y-Python/events/271358503/).
 
+**ESTIMAD@S: PARA PODER VER LA CHARLA, FAVOR ACCEDAN AL SIGUIENTE [LINK](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTQxMzVhNWEtZTg4Yi00MzAwLWEyN2UtYmU1ZjAxNTVkYzI3%40thread.v2/0?context=%7b%22Tid%22%3a%224e10e36b-35d4-414f-8c63-664b09936faf%22%2c%22Oid%22%3a%2246a4c223-7c5a-43d3-ba82-80c7af953726%22%2c%22IsBroadcastMeeting%22%3atrue%7d) DE MICROSOFT TEAMS. NO NECESITAN INSTALAR NADA, SOLO DEBEN PONER QUE ACCEDERÁN VÍA NAVEGADOR, Y LUEGO VER DE FORMA ANÓNIMA!**
+
 ## Herramientas utilizadas
 
 El proyecto general se montó en el OS Ubuntu v18.04 LTS, en una VM levantada en Google Cloud Platform (g1-small (1 vCPU, 1.7 GB memory)).
